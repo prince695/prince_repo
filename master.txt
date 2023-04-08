@@ -1,3 +1,7 @@
 master branch file 
 this is master branch file
+<<<<<<< HEAD
 add 123 line to master
+=======
+add 1 line
+>>>>>>> fix_branch
