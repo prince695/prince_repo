@@ -1,2 +1,2 @@
-Hello GITHUB and welcome to git and github course 
-Hello world
+# Welcome to git and github course 
+
